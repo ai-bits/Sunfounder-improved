@@ -1,4 +1,4 @@
-# Sunfounder Smart Video Car software improved
+# Sunfounder Smart Video Car Software Improved
 I don't plan to change much more in client/client_my.py (originally client_App.py), neither functionally nor regarding code quality.  
 Please check the comments for improvements.
 
